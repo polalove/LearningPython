@@ -34,12 +34,12 @@
 # print(' and ')
 # print(pet)
 
-# eurosCount = 100
-# dollarsCount = eurosCount * 1.25
-# yuansCount = dollarsCount * 6.91
-#
-# print(dollarsCount)
-# print(yuansCount)
+eurosCount = 100
+dollarsCount = eurosCount * 1.25
+yuansCount = dollarsCount * 6.91
+
+print(dollarsCount)
+print(yuansCount)
 
 
 eurosCount = 100
