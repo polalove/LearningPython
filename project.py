@@ -184,7 +184,13 @@ from random import random
 
 #print_motto() => Winter is coming
 
-# Определение функции
+#Определение функции
 # def print_motto():
 #     print("Winter is coming")
 # print_motto()
+
+# def say_hurray_three_times():
+#    text = "hurray! hurray! hurray!"
+#    return text
+
+# print(say_hurray_three_times())
